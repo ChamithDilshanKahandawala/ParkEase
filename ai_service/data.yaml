@@ -1,0 +1,6 @@
+train: dataset/train/images
+val: dataset/validation/images
+nc: 2
+names:
+- front_number_plate
+- rear_number_plate
